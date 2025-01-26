@@ -17,7 +17,10 @@ import "slick-carousel/slick/slick-theme.css";
 
 
 
+AOS - Animate on scroll library: (https://www.npmjs.com/package/aos)
+Small library to animate elements on your page as you scroll.
 
-
+step 1: install "npm i aos"
+step 2: 
 
 
